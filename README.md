@@ -19,7 +19,7 @@ I'm a **curious mind** with a passion for:
 - 💻 **Programming** — Python · JavaScript · Go · Rust  
 - 📈 **Operations** — bridging tech & business, optimizing workflows  
 - 📸 **Photography** — street · landscape · storytelling through light  
-- ✈️ **Travel** — 10+ countries and counting 🌏
+- ✈️ **Travel** — 10+ countries and 30+ provinces🌏
 
 ---
 
