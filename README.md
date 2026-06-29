@@ -51,25 +51,20 @@ I'm a **curious mind** with a passion for:
 ## 📈 GitHub Stats (live)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Songypb&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songypb&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <!-- 动态贡献图（蛇形动画，需替换用户名） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Songypb/Songypb/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/你的链接"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/你的链接"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/你的链接"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 <!-- 底部波浪 -->
 <p align="center">
