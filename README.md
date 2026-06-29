@@ -1,6 +1,6 @@
 <!-- 头部横幅（动态打字效果） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%E2%9C%A8+Your+Name;AI+Explorer+%F0%9F%A4%96;Full-Stack+Builder+%F0%9F%9A%80;Creative+Operator+%F0%9F%93%8A;Shutter+Enthusiast+%F0%9F%93%B8;Globe+Trotter+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%E2%9C%A8+Song+Yuan;AI+Explorer+%F0%9F%A4%96;Full-Stack+Builder+%F0%9F%9A%80;Creative+Operator+%F0%9F%93%8A;Shutter+Enthusiast+%F0%9F%93%B8;Globe+Trotter+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 <!-- 炫酷分隔线 -->
