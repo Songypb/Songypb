@@ -48,19 +48,7 @@ I'm a **curious mind** with a passion for:
 
 ---
 
-## 📈 GitHub Stats (live)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Songypb&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songypb&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<!-- 动态贡献图（蛇形动画，需替换用户名） -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Songypb/Songypb/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
